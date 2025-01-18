@@ -10,10 +10,13 @@ Basic Queries
 
    ![Screenshot 2025-01-17 140424](https://github.com/user-attachments/assets/720cf485-a4ee-48ac-af75-fb20c448d948)
 
-3. Count the number of orders placed in 2017.
-4. Find the total sales per category.
-5. Calculate the percentage of orders that were paid in installments.
-6. Count the number of customers from each state. 
+2. Count the number of orders placed in 2017.
+![Screenshot 2025-01-17 145401](https://github.com/user-attachments/assets/0c7bd6bd-65dc-4c2c-b412-6d6b4f6d735a)
+
+   
+3. Find the total sales per category.
+6. Calculate the percentage of orders that were paid in installments.
+7. Count the number of customers from each state. 
 
 Intermediate Queries
 1. Calculate the number of orders per month in 2018.

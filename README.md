@@ -7,10 +7,13 @@ Questions:
 
 Basic Queries
 1. List all unique cities where customers are located.
-2. Count the number of orders placed in 2017.
-3. Find the total sales per category.
-4. Calculate the percentage of orders that were paid in installments.
-5. Count the number of customers from each state. 
+
+   ![Screenshot 2025-01-17 140424](https://github.com/user-attachments/assets/720cf485-a4ee-48ac-af75-fb20c448d948)
+
+3. Count the number of orders placed in 2017.
+4. Find the total sales per category.
+5. Calculate the percentage of orders that were paid in installments.
+6. Count the number of customers from each state. 
 
 Intermediate Queries
 1. Calculate the number of orders per month in 2018.

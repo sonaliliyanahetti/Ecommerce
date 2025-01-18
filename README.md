@@ -15,8 +15,13 @@ Basic Queries
 
    
 3. Find the total sales per category.
+![Screenshot 2025-01-18 112815](https://github.com/user-attachments/assets/6d440624-1124-4110-a724-c5d9c3690b3d)
+   
 6. Calculate the percentage of orders that were paid in installments.
-7. Count the number of customers from each state. 
+   ![image](https://github.com/user-attachments/assets/1e32a7dc-c423-4771-972b-4aa3d1462414)
+
+8. Count the number of customers from each state. 
+
 
 Intermediate Queries
 1. Calculate the number of orders per month in 2018.
